@@ -2,7 +2,8 @@
 
 This is the home page for a practical guide to large language models: what
 they learn, how they are trained, how they are evaluated, and how they are
-used in real systems.
+used in real systems. It also collects a small amount of adjacent technical
+knowledge when that material helps explain the surrounding systems.
 
 The wiki favours short, connected notes. Each page should answer a specific
 question and make its assumptions visible.
@@ -14,6 +15,13 @@ question and make its assumptions visible.
 - [Techniques](techniques/) - methods for improving model behaviour and use
 - [Paper notes](papers/) - focused summaries with source links
 - [Glossary](glossary/) - quick definitions and links to deeper pages
+
+Adjacent systems notes include options and market-making concepts migrated
+from the old reference tree.
+
+- [Market-making reference notes](systems/market-making/README.md)
+- [Options system context](systems/options/space-introduction.md)
+- [Market indicators](techniques/market-indicators.md)
 
 ## Suggested reading path
 
