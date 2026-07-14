@@ -1,0 +1,25 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python tooling, if used for supporting scripts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node tooling, if used for a local site or scripts
+node_modules/
+dist/
+build/
+
+# Local environment and generated output
+.env
+.env.*
+site/
+.cache/
