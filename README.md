@@ -35,6 +35,9 @@ source note and should not pretend to be the live contract for another repo.
 Start with [`docs/index.md`](docs/index.md). New pages should use Markdown,
 have one clear topic, and link to related pages and sources.
 
+The contribution and curation workflow is documented in
+[`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 ## Status
 
 This repository is at the initial scaffold stage. The wiki structure is

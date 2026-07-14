@@ -23,6 +23,15 @@ from the old reference tree.
 - [Options system context](systems/options/space-introduction.md)
 - [Market indicators](techniques/market-indicators.md)
 
+Volatility-system notes are an adjacent technical track, distilled from the
+Vola Dynamics research reviewed in the trading repositories:
+
+- [Volatility systems](systems/volatility/README.md)
+- [Implied-volatility surfaces](systems/volatility/implied-volatility-surfaces.md)
+- [Spot-vol dynamics](systems/volatility/spot-vol-dynamics.md)
+- [No-arbitrage and fit quality](systems/volatility/no-arbitrage-and-fit-quality.md)
+- [Vola Dynamics source notes](papers/vola-dynamics.md)
+
 ## Suggested reading path
 
 1. Start with tokenisation, embeddings, and the transformer architecture.
