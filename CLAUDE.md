@@ -2,7 +2,7 @@
 
 ## Scope
 
-This is a content-first, source-backed wiki about large language models. Keep
+This is a content-first, source-backed wiki covering quantitative methods, software and agent workflows. Keep
 repository-specific guidance here; shared agent policy lives in the global
 instructions.
 
