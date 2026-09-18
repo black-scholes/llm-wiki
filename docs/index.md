@@ -22,6 +22,8 @@ from the old reference tree.
 - [Market-making reference notes](systems/market-making/README.md)
 - [Options system context](systems/options/space-introduction.md)
 - [Market indicators](techniques/market-indicators.md)
+- [Agents](techniques/agents/README.md)
+- [Hermes Agent community findings](techniques/agents/hermes-community-findings.md)
 
 Volatility-system notes are an adjacent technical track, distilled from the
 Vola Dynamics research reviewed in the trading repositories:
