@@ -14,6 +14,7 @@ question and make its assumptions visible.
 - [Systems](systems/) - the infrastructure around training and inference
 - [Techniques](techniques/) - methods for improving model behaviour and use
 - [Paper notes](papers/) - focused summaries with source links
+  - [Gappy quantitative finance notes](papers/gappy/README.md) - 634 topic-grouped research notes
 - [Glossary](glossary/) - quick definitions and links to deeper pages
 
 Adjacent systems notes include options and market-making concepts migrated
