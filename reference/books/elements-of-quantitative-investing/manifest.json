@@ -1,0 +1,33 @@
+{
+  "title": "The Elements of Quantitative Investing",
+  "author": "Giuseppe A. Paleologo",
+  "primary_version": "Draft dated 2024-07-10 on title page",
+  "received_on": "2026-09-29",
+  "primary_source": "User-provided attachment eqi.pdf",
+  "primary_pdf": "eqi.pdf",
+  "primary_pdf_pages": 376,
+  "full_primary_pdf_saved": true,
+  "published_edition": "Wiley, first edition, 2025; print ISBN 9781394265459",
+  "supplementary_sources": {
+    "published_contents": "https://catalogimages.wiley.com/images/db/pdf/9781394265459.toc.pdf",
+    "published_chapter_1_excerpt": "https://catalogimages.wiley.com/images/db/pdf/9781394265459.excerpt.pdf",
+    "published_model_linkage_text": "https://dokumen.pub/elements-of-quantitative-investing.html"
+  },
+  "files": [
+    {
+      "file": "eqi.pdf",
+      "bytes": 3793678,
+      "sha256": "ffb35c7854fb308af5e17ef8137941fbd62270a0440d93d3eb7827437717c686"
+    },
+    {
+      "file": "wiley-chapter-1-excerpt.pdf",
+      "bytes": 124116,
+      "sha256": "ddf098d399d839c232545d6327c18232ca5991a93bff98a16e84e80a8cf89206"
+    },
+    {
+      "file": "wiley-contents.pdf",
+      "bytes": 46270,
+      "sha256": "ddb94f34b7d65c2b0eec259d70b478d52e0608b81216300bfd9ae8564cb31774"
+    }
+  ]
+}

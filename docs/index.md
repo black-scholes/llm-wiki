@@ -35,6 +35,18 @@ Vola Dynamics research reviewed in the trading repositories:
 - [No-arbitrage and fit quality](systems/volatility/no-arbitrage-and-fit-quality.md)
 - [Vola Dynamics source notes](papers/vola-dynamics.md)
 
+Quantitative-investing notes extract Paleologo's *The Elements of Quantitative
+Investing* and complement the supplied draft with standard theory and practical
+guidance:
+
+- [Quantitative investing](systems/quantitative-investing/README.md) — the full
+  reading path through research, risk, portfolio construction, trading and attribution.
+- [Statistical factor models](systems/quantitative-investing/statistical-factor-models.md)
+- [Shrinkage](systems/quantitative-investing/shrinkage.md)
+- [Multiple-market risk models](systems/quantitative-investing/multi-market-models.md)
+- [Currency rebasing](systems/quantitative-investing/currency-rebasing.md)
+- [Book sources and chapter map](papers/elements-of-quantitative-investing.md)
+
 ## Suggested reading path
 
 1. Start with tokenisation, embeddings, and the transformer architecture.

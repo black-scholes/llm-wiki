@@ -35,6 +35,13 @@ source note and should not pretend to be the live contract for another repo.
 Start with [`docs/index.md`](docs/index.md). New pages should use Markdown,
 have one clear topic, and link to related pages and sources.
 
+The [quantitative-investing track](docs/systems/quantitative-investing/README.md)
+extracts *The Elements of Quantitative Investing*, with particular depth on
+statistical factor models, shrinkage, currencies and multiple markets. Its
+[source record](docs/papers/elements-of-quantitative-investing.md) maps the
+supplied draft; the complete PDF is saved under
+[`reference/books/elements-of-quantitative-investing/`](reference/books/elements-of-quantitative-investing/README.md).
+
 The contribution and curation workflow is documented in
 [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
